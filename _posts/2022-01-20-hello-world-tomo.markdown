@@ -12,3 +12,4 @@ I like Japanese Sushis.
 I like Gyoza.
 I like Japanese Sushis.
 I like Gyoza.
+New words.
