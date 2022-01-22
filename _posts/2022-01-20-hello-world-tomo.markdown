@@ -7,4 +7,8 @@ categories: jekyll update
 
 Hello everyone!
 
-Brand new post! Just another test. :)
+My name is Tomo.
+I like Japanese Sushis.
+I like Gyoza.
+I like Japanese Sushis.
+I like Gyoza.
